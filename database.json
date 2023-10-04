@@ -126,5 +126,46 @@
       "phone": "+55(92)000000000",
       "email": "leocarr@exemplo.com"
     }
+  ],
+  "products":[
+      {
+        "name": "Pizza",
+        "picture": "https://img.freepik.com/fotos-gratis/cheeseburguer-grelhado-com-cobertura-de-tomate-e-cebola-gerado-por-ia_188544-13418.jpg",
+        "price": 20.55,
+        "options": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4",
+            "Option5"
+        ],
+        "id": "D4feOHDyxtwgrSth"
+    },
+    {
+        "name": "Amburguer",
+        "picture": "https://img.freepik.com/fotos-gratis/cheeseburguer-grelhado-com-cobertura-de-tomate-e-cebola-gerado-por-ia_188544-13418.jpg",
+        "price": 20.55,
+        "options": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4",
+            "Option5"
+        ],
+        "id": "GnV31eSLQ4Dq9Cox"
+    },
+    {
+        "name": "Pizza",
+        "picture": "https://feedmechannel.com/wp-content/uploads/2021/06/A-Pizza-da-Mooca_4-Stagione-1.jpg",
+        "price": 19.2,
+        "options": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4",
+            "Option5"
+        ],
+        "id": "FclOVshtqwG6vEnC"
+    }
   ]
 }
