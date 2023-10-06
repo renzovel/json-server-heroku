@@ -129,43 +129,67 @@
   ],
   "products":[
       {
-        "name": "Pizza",
-        "picture": "https://img.freepik.com/fotos-gratis/cheeseburguer-grelhado-com-cobertura-de-tomate-e-cebola-gerado-por-ia_188544-13418.jpg",
-        "price": 20.55,
-        "options": [
-            "Option1",
-            "Option2",
-            "Option3",
-            "Option4",
-            "Option5"
-        ],
-        "id": "D4feOHDyxtwgrSth"
-    },
-    {
-        "name": "Amburguer",
-        "picture": "https://img.freepik.com/fotos-gratis/cheeseburguer-grelhado-com-cobertura-de-tomate-e-cebola-gerado-por-ia_188544-13418.jpg",
-        "price": 20.55,
-        "options": [
-            "Option1",
-            "Option2",
-            "Option3",
-            "Option4",
-            "Option5"
-        ],
-        "id": "GnV31eSLQ4Dq9Cox"
-    },
-    {
-        "name": "Pizza",
-        "picture": "https://feedmechannel.com/wp-content/uploads/2021/06/A-Pizza-da-Mooca_4-Stagione-1.jpg",
-        "price": 19.2,
-        "options": [
-            "Option1",
-            "Option2",
-            "Option3",
-            "Option4",
-            "Option5"
-        ],
+        "nome": "Pizza de pepperoni",
+        "imagem": "https://feedmechannel.com/wp-content/uploads/2021/06/A-Pizza-da-Mooca_4-Stagione-1.jpg",
+        "preco": 19.2,
+        "opcoes": ["Pepperoni", "Queijo", "Tomate"],
         "id": "FclOVshtqwG6vEnC"
+    },
+    {
+        "nome": "Hamburguer com queijo",
+        "imagem": "https://www.estadao.com.br/resizer/aQ0_ezgaRvEwF__UfwM-NAkqAsc=/720x503/filters:format(jpg):quality(80):focal(540x315:550x325)/cloudfront-us-east-1.images.arcpublishing.com/estadao/77XTHHCCLBEXLC2Y5RK4PN37CE.jpg",
+        "preco": 12.5,
+        "opcoes": ["Carne", "Queijo", "Pão", "Tomate", "Alface", "Pepinos"],
+        "id": "342567890123456"
+    },
+    {
+        "nome": "Salada César",
+        "imagem": "https://i.panelinha.com.br/i1/64-bk-4398-san-remo-01-26752-salada-caesar-receita.webp",
+        "preco": 10.9,
+        "opcoes": ["Alface", "Tomate", "Peito de frango", "Queijo parmesão", "Croutons"],
+        "id": "123456789012345"
+    },
+    {
+        "nome": "Macarrão com molho bolonhesa",
+        "imagem": "https://i.panelinha.com.br/i1/64-bk-5810-macarrao-a-bolonhesa-formato-blog.webp",
+        "preco": 15.7,
+        "opcoes": ["Macarrão", "Molho bolonhesa", "Queijo parmesão"],
+        "id": "987654321098765"
+    },
+    {
+        "nome": "Arroz com frango",
+        "imagem": "https://www.receiteria.com.br/wp-content/uploads/arroz-com-frango-e1692382862787.jpg.webp",
+        "preco": 13.9,
+        "opcoes": ["Arroz", "Frango", "Legumes"],
+        "id": "765432109876543"
+    },
+    {
+        "nome": "Tacos de carne assada",
+        "imagem": "https://s2-receitas.glbimg.com/4FsK0yAsFhf1kNUTtCI0CcgTYD4=/0x0:620x385/984x0/smart/filters:strip_icc()/g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2014/07/16/comidinhas-tortilha-385.jpg",
+        "preco": 11.5,
+        "opcoes": ["Tortilhas", "Carne assada", "Queijo", "Legumes"],
+        "id": "543210987654321"
+    },
+    {
+        "nome": "Macarrão com molho pesto",
+        "imagem": "https://i.panelinha.com.br/i1/64-bk-8613-espaguete-ao-pesto.webp",
+        "preco": 14.9,
+        "opcoes": ["Macarrão", "Molho pesto", "Queijo parmesão"],
+        "id": "321098765432109"
+    },
+    {
+        "nome": "Frango grelhado",
+        "imagem": "https://img.cybercook.com.br/imagens/receitas/340/file-de-frango-grelhado-2-840x480.jpeg?q=75",
+        "preco": 12.9,
+        "opcoes": ["Frango", "Legumes"],
+        "id": "109876543210987"
+    },
+    {
+        "nome": "Enchiladas verdes",
+        "imagem": "https://www.allrecipes.com/thmb/v9sjksR6wzMbWpVseADKPwD23ao=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5738483-enchiladas-verdes-Christine-Elizabeth-1x1-1-b5373be1d4d7424982c740baadc2352d.jpg",
+        "preco": 10.5,
+        "opcoes": ["Tortilhas", "Frango", "Molho verde", "Queijo"],
+        "id": "987654321098765"
     }
   ]
 }
